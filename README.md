@@ -15,9 +15,9 @@ make clean; make
 
 ## Run
 
-./bin/sample_rate_converter in.wav out.wav <conversion index>
+./bin/sample_rate_converter in.wav out.wav 'conversion index'
 
- <conversion index> 
+ conversion index:
  
  0: 6/5
  1: 7/8
