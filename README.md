@@ -10,9 +10,15 @@ Efficient Sample Rate Converter with the following ratios
 
 # Usage
 ## Build
-make
+
+make clean; make
+
+## Run
+
 ./bin/sample_rate_converter in.wav out.wav <conversion index>
+
  <conversion index> 
+ 
  0: 6/5
  1: 7/8
  2: 9/10
