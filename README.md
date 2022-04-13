@@ -9,7 +9,7 @@ Efficient Sample Rate Converter with the following ratios
 //    to compute the down-sample part before the up-sampling part witout loss of bandwith but having less computational complexity.
 
 # Usage
-## Build
+## Build on x86
 
 make clean; make
 
